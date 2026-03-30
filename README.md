@@ -1,1 +1,1 @@
-This takes some parts from project1 but the files for that were given to me by the professor Hochstetler. He gave us the project 1 to build off of and create project 2 which is this file.
+This takes some parts from project1 but the files for that were given to me by the professor Hochstetler. He gave us the project 1 to build off of and create project 2 which is this file. He also included the test suite file for project 1 which I edited one line to fit the requirements for project 2
